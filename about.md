@@ -8,8 +8,9 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A junior in Computer Science at University of Texas at Arlington. My domain or field of interest inside of computer science is Database and system analysis. I am looking for roles that can help me enhance my knowledge of my field of interest as an intern. 
+Simuntaneously I am working on mastering my skills with Unix,GitHub, Database Oracle certification. 
 
-### Contact me
+### Contact me at my email address. 
 
-[email@domain.com](mailto:email@domain.com)
+[himadri518@gmail.com](mailto:email@domain.com)
